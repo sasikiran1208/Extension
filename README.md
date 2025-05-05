@@ -47,7 +47,11 @@ Tabs Manager is a simple Chrome extension that lets you save website URLs either
 
 ## 📸 Preview
 
-Coming soon...
+### Popup View
+![Popup Screenshot](Extenstion.1.png)
+
+### Saving a Tab
+![Save Tab Screenshot](Extension.2.png)
 
 ---
 
